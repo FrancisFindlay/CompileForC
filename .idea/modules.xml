@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompileForC.iml" filepath="$PROJECT_DIR$/CompileForC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MiniC-Compiler/SyntaxParser/SyntaxParser.iml" filepath="$PROJECT_DIR$/../MiniC-Compiler/SyntaxParser/SyntaxParser.iml" />
+    </modules>
+  </component>
+</project>
