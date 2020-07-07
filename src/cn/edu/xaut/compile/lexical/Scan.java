@@ -92,8 +92,8 @@ public class Scan {
         String result = new String(chars);
         this.input = result;
         this.point = 0;
+        System.out.println("词法分析的结果：");
         System.out.println(input);
-        System.out.println((char)0);
     }
 
     public char getNextChar(){
